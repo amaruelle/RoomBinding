@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomBinding</string>
+    <string name="login">Логин</string>
+    <string name="name">Имя</string>
+    <string name="add">Добавить</string>
+    <string name="read">Прочитать</string>
+    <string name="clear">Очистить</string>
+    <string name="log">Логин</string>
+    <string name="sample">Здесь будут отображаться данные из БД</string>
+</resources>
