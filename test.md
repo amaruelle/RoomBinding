@@ -1,7 +1,7 @@
 # Heading
 
-Test note with [1].
+Test note with [^1].
 
 ---
 
-[1]: Interesting footnote
+[^1]: Interesting footnote
